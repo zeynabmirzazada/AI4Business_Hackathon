@@ -1,0 +1,21 @@
+Startup_Name,Company_Status,YoY_Growth_Pct,Investment_Readiness_Score,Number_of_Founders,Founder_Previous_Exits,Current_Team_Size,Employee_MoM_Growth,Total_Funding_USD,Funding_Rounds_Count,Months_Since_Last_Funding,Estimated_Monthly_Burn_Rate,Cash_Runway_Months,Monthly_Recurring_Revenue_MRR,Customer_Acquisition_Cost_CAC,Customer_Lifetime_Value_LTV,Monthly_Churn_Rate,Company_Age_Months,Industry_Sector,Web_Traffic_Growth_MoM,Media_Mentions_Count
+AeroTech AI,0,145,88,3,1,120,5.2,45000000,3,8,850000,18,1200000,450,2200,2.1,36,SaaS,12.5,45
+BlockSecure,1,-15,34,1,0,12,-2.5,2500000,1,22,150000,3,45000,800,1100,15.4,28,Cybersecurity,-5.0,2
+MediSync,0,210,92,2,1,45,8.1,12000000,2,4,200000,24,350000,120,950,1.5,18,HealthTech,22.0,85
+FoodDrop,1,5,41,2,0,85,0.0,8000000,2,16,600000,4,180000,55,75,8.2,42,Logistics,-2.1,12
+CloudScale,0,85,76,3,0,65,2.1,18000000,2,11,400000,14,550000,300,1800,3.5,24,SaaS,8.4,22
+EcoBattery,0,320,85,4,1,210,12.5,115000000,4,6,2200000,20,800000,1500,8500,1.2,48,Hardware,15.2,120
+VR Learn,1,-40,22,1,0,8,-10.5,1200000,1,19,80000,2,12000,250,300,22.5,20,EdTech,-15.0,1
+FinFlow,0,110,79,2,0,35,4.0,6500000,1,9,180000,16,210000,200,1200,4.1,15,FinTech,10.1,18
+DataSphere,1,12,45,2,0,22,-1.5,3000000,1,14,210000,5,85000,400,600,11.2,26,Analytics,1.2,5
+QuantumQ,0,45,81,3,1,55,1.5,25000000,2,12,500000,22,0,0,0,0.0,30,DeepTech,5.5,60
+AgriSmart,0,95,72,2,0,42,3.5,8500000,2,10,250000,12,180000,150,850,3.8,32,AgriTech,6.8,14
+CryptoPay,1,-60,15,1,0,5,-20.0,4000000,1,26,120000,1,25000,900,400,35.0,38,Web3,-25.0,8
+HRConnect,0,65,68,2,0,28,2.0,4500000,1,7,140000,15,150000,180,900,4.5,14,SaaS,4.5,10
+BioGenix,0,15,84,3,1,85,1.0,65000000,3,5,1500000,18,0,0,0,0.0,50,BioTech,2.0,110
+UrbanRide,1,-25,28,2,0,15,-5.0,12000000,2,18,850000,2,400000,85,110,14.5,45,Logistics,-8.5,15
+CreatorTools,0,180,89,2,1,38,9.5,9000000,2,3,160000,30,280000,50,450,2.5,16,SaaS,25.0,40
+SpaceNet,0,10,77,4,1,150,0.5,85000000,3,15,3500000,12,4500000,5000,25000,1.1,60,Hardware,3.0,88
+ShopAI,1,-5,39,1,0,18,-4.2,3500000,1,17,240000,4,95000,350,500,12.0,22,E-commerce,-3.4,4
+LegalBot,0,135,82,3,0,52,6.0,14000000,2,6,320000,18,420000,220,1600,3.2,20,AI,14.0,35
+PetCare+,1,8,44,2,0,25,0.0,5000000,1,13,280000,6,110000,140,200,9.5,25,E-commerce,0.5,6
